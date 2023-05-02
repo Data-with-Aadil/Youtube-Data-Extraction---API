@@ -8,6 +8,8 @@ To use this script, you will need:
 - A Google account
 - Access to the YouTube Analytics API v2
 - A `client_secrets.json` file containing your API credentials
+- Python 3.x installed
+- Libraries: google-auth, google-auth-oauthlib, google-auth-httplib2, google-api-python-client, pandas, tabulate
 
 To obtain access to the YouTube Analytics API v2 and obtain your API credentials, follow these steps:
 
