@@ -1,6 +1,7 @@
 ## YouTube Analytics Data Retrieval
 
 This Python script is designed to retrieve YouTube Analytics data for a list of videos. It uses the YouTube Analytics API v2 to retrieve data such as views, likes, dislikes, shares, estimated minutes watched, and subscribers gained for a specific date range.
+This Code will save the creds of the channel in the creds.json file, so that we don't have to authenticate the channel permission again and again.
 
 ### Prerequisites
 
