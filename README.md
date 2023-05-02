@@ -19,7 +19,11 @@ To obtain access to the YouTube Analytics API v2 and obtain your API credentials
 4. Create API credentials for a desktop application
 5. Download the `client_secrets.json` file containing your API credentials
 
-For more information on obtaining API credentials, see the [YouTube Analytics API documentation](https://developers.google.com/youtube/analytics/getting_started/auth).
+For more information on obtaining API credentials, see the [YouTube Analytics API documentation](https://developers.google.com/youtube/reporting/v1/reports).
+- More liks to check-out:-
+1. [Obtain authorization credentials](https://developers.google.com/youtube/reporting/guides/registering_an_application)
+2. [Analytics and Reporting](https://developers.google.com/youtube/analytics)
+3. [Code Samples](https://developers.google.com/youtube/reporting/v1/reports#python).
 
 ### How to Use
 
