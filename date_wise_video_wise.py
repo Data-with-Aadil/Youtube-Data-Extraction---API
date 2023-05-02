@@ -1,4 +1,4 @@
-# we only want the data from links from smartsheet aadil/
+
 import os
 from venv import create
 from googleapiclient.discovery import build
